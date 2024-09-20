@@ -1,0 +1,21 @@
+<!-- OpenMindAmir.ir -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>401 Authorization Required</title>
+    <meta name="theme-color" content="#eab308" />
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/error.css">
+</head>
+
+<body>
+    <center>
+        <h1>401</h1>
+        <h2>Authorization Required</h2>
+    </center>
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+<!-- OpenMindAmir.ir -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>500 Internal Server Error</title>
+    <meta name="theme-color" content="#eab308" />
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/error.css">
+</head>
+
+<body>
+    <center>
+        <h1>500</h1>
+        <h2>Internal Server Error</h2>
+    </center>
+</body>
+
+</html>

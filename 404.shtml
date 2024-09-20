@@ -1,0 +1,21 @@
+<!-- OpenMindAmir.ir -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>404 Not Found</title>
+    <meta name="theme-color" content="#eab308" />
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/error.css">
+</head>
+
+<body>
+    <center>
+        <h1>404</h1>
+        <h2>Not Found</h2>
+    </center>
+</body>
+
+</html>

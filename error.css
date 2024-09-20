@@ -1,0 +1,33 @@
+/* OpenMindAmir.ir */
+
+@font-face {
+    font-family: "FiraSansExtraBold";
+    src: url('/assets/fonts/FiraSans-ExtraBold.woff2');
+}
+
+*::selection {
+    background-color: black;
+    color: #eab308;
+}
+
+body {
+    background-color: #eab308;
+    color: black;
+    font-family: FiraSansExtraBold;
+    font-weight: 900;
+    display: grid;
+    height: 100vh;
+    overflow-y: hidden;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 20vw;
+    margin: 0 !important;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 7vw;
+}
